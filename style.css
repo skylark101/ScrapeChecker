@@ -30,7 +30,16 @@ button {
     cursor: pointer;
     margin: 2%;
 }
-
+.gitIcon {
+    position: absolute;
+    top: 1%;
+    right: 1%;
+    font-size: 1.5rem;
+  }
+  .gitIcon a {
+    color: black;
+    cursor: pointer;
+  }
 @media only screen and (max-width:991px) {
     body {
         background: url('https://images.unsplash.com/photo-1586348943529-beaae6c28db9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fG5hdHVyZXxlbnwwfHwwfHw%3D&auto=format');
